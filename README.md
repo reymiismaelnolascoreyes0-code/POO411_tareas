@@ -1,6 +1,6 @@
 # POO411_tareas
 
-Nombre:  
+Nombre:  josue elias
 
-Matrícula:
+Matrícula: 25-EISN-2-062
 
