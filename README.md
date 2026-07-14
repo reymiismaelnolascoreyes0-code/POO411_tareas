@@ -1,6 +1,5 @@
 # POO411_tareas
 
-Nombre:  
+Nombre:  reymi ismael nolasco reyes
 
-Matrícula:
-
+Matrícula: 25-EISN-2-008
